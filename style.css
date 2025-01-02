@@ -1,7 +1,7 @@
-@media(min-width:301px) and (max-width:2000px) {
+@media(min-width:400px) and (max-width:2000px) {
     .div-body{
         background: #ffffff;
-        
+
         border-radius: 5px;
         width: 1656px;
         height: 1000px;
@@ -23,16 +23,16 @@
                 height: 100px;
                 margin-left: 600px;
                 margin-top: 250px;
-                
+
                 }
-                
+
                 .d-img{
                     width: 350px;
                     height: 350px;
                 margin-top: 50px;
                 margin-left: 650px;
                 border-radius: 10px;
-                
+
                 }
                 .about{
                     margin-left: 790px;
@@ -45,11 +45,11 @@
                 font-size: 20px;
                 text-align: center;
                 }
-                
+
                 .experience{
                     margin-left: 780px;
                     margin-top: -150px;
-                
+
                 }
                 .pp{
                 width: 150px;
@@ -80,11 +80,11 @@
                     font-size: 20px;
                     text-align: center;
                     }
-                    
+
                     .experience1{
                         margin-left: 800px;
                         margin-top: 150px;
-                    
+
                     }
                     .link{
                         text-decoration: none;
@@ -100,7 +100,7 @@
                          }  
                     a:link:hover{background-color: #ffffff;}
               .div-head{
-        
+
                 width: 1000px;
                 height: 200px;
                 padding: 10px;
@@ -110,12 +110,12 @@
                 margin-left: 500px;
                 margin-bottom: 150px;
               }
-        
+
               h1{
                 margin:auto;
                 font-family: Verdana, Geneva, Tahoma, sans-serif;
                font-size: 60px;
-               
+
               }
               .div-button{
                 width: 400px;
@@ -123,7 +123,7 @@
                 margin: auto;
                 border-radius: 50px;
                     margin-bottom: 50px;
-                
+
               }
               button{
                 margin-top: 15px;
@@ -138,23 +138,23 @@
                 margin-left: 50px;
               }
               .h{margin: auto;}
-        
+
               .img1{border-radius: 10px;
-         
+
                 width: 500px;
                 height: 500px;
             margin: auto;
             margin-left: 300px;
             margin-top: 20px;
-            
+
               }
               .footer-1{
                 margin-top:-20px;
                 margin-left: 1100px;
             }
-            
+
         .img2{border-radius: 10px;
-         
+
             width: 500px;
             height: 500px;
         margin: auto;
@@ -164,21 +164,21 @@
             display: none;
         }
         video{border-radius: 10px;
-         
+
             width: 300px;
             height: 200px;
         margin-left: 100px;}
-        
+
         .div-footer{
             background: #ffffff;
-            
+
             border-radius: 5px;
             width: 400px;
             height: 100px;
            margin-left: 650px;
            margin-top: 150px;
         }
-        
+
         .div-p{
             width: 400px;
             height: 200px;
@@ -198,43 +198,39 @@
             display: inline;
             position: relative;
             top:-50px;}
-            
-                
+
+
                 }  
-            
 
 
 
 
-@media (max-width:300px) {
+
+@media (max-width:400px) {
 
     .div-body{
         background: #ffffff;
-        
+
         border-radius: 5px;
         width: 400px;
         height: 1000px;
         }
-        
+
         .div-link{
         width: 300px;
         height: 50px;
         border-radius: 50px;
         background-color: #e8e5e480;
         margin: auto;
-        margin-left: 100px;
+        margin-left: 40px;
         position: fixed;
-        top: 10px;
-        }
-        
-        
-        
-        
+top: 10px;
+        }  
         .span{
 
             margin-left: 20px;
         }
-    
+
       .link{
      text-decoration: none;
      color: #000000;
@@ -243,78 +239,74 @@
      display: inline-flex;
      justify-content: center;
      padding: 10px;
-     
+
      border-radius: 20px;
      margin-left: 15px;
      margin-top: 5px;
       }  
       a:link:hover{background-color: #ffffff;}
       .div-head{
+
         width: 350px;
         height: 200px;
         padding: 10px;
         margin: auto;
-       
+        font-size: 14px;
         margin-top: 100px;
-        margin-left: 70px;
       }
       h1{
         margin:auto;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
       font-size: 30px;
-      
-       
+
       }
       .h{margin: auto;}
 
       .img1{border-radius: 10px;
- 
+
     width: 350px;
     height: 200px;
 margin: auto;
-margin-left: 80px;}
+margin-left: 25px;}
 
 .img2{border-radius: 10px;
- 
+
     width: 350px;
     height: 200px;
 margin: auto;
-margin-left: 80px;}
+margin-left: 25px;}
 
 
 h4{
-    margin-left: 80px;
+    margin-left: 50px;
 }
 
 .div-footer{
     background: #ffffff;
-    
+
     border-radius: 5px;
     width: 400px;
     height: 100px;
-   margin-left: 130px;
+   margin-left: 50px;
    margin-top: 100px;
 }
 h2{
-    font-size: 30px;
+    font-size: 40px;
 }
 h3{
-    width: 200px;
-    margin-left: 170px;
+    margin-left: 130px;
     margin-bottom: 60px;
-    
 }
 .footer{
     margin-top: 100px;
-    margin-left: 100px;
+    margin-left: 60px;
 
 }
 
 .footer-1{
     margin-top: 40px;
-    margin-left: 110px;
-    width: 300px;
-   
+    margin-left: 50px;
+
 }
 .div-button{
     display: none;
@@ -324,7 +316,7 @@ h3{
     width: 400px;
     height: 200px;
     margin-top: 150px;
-    margin-left: 120px;
+    margin-left: 40px;
 }
 .head{
 width: 300px;
@@ -399,10 +391,11 @@ color: #7f7f7f;
     font-size: 20px;
     text-align: center;
     }
-    
+
     .experience1{
         margin-left: 170px;
         margin-top: 150px;
+    
         border-radius: 10px;
         background-color:#e8e5e480 ;
         border-color: white;
